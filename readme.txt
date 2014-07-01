@@ -1,4 +1,4 @@
-﻿=== Event Calendar 3 for PHP 5.3 ===
+=== Event Calendar 3 for PHP 5.3 ===
 Contributors: Alex Tingle (PHP 5.3 update by Stig Ulfsby)
 Donate link: http://www.amazon.co.uk/gp/registry/1S44DP6XXOFIN
 Tags: calendar, event, events, vcalendar, icalendar, ical, ajax, widget, sidebar
